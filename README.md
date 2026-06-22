@@ -30,6 +30,8 @@ Feel free to drop me a line at:
 - 🌐 LinkedIn: [Nithin Yadav G](https://www.linkedin.com/in/nithin-yadav-g-082b51129/) 
 
 ## Few More
+- [GUi](nithinyadavg.me)
+- [Terminal Mode](t1.nithinyadavg.me)
 - [Linktree](https://linktr.ee/nithinyadavg) 
 
 
